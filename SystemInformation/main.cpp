@@ -2,7 +2,7 @@
 	Name of file	: Main.cpp
 	Author			: Stokic Stefan
 	Version			: 1.0
-	Description		: An "Injector". Is animating a progressbar and loads our gLib.dll
+	Description		: An "Injector". Is animating a progressbar and loads our dynamic link library (glib.dll)
 ##########################################################
 */
 
